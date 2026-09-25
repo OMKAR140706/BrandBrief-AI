@@ -55,6 +55,14 @@ the company's website.
 - Web Scraping
 - Jupyter Notebook
 
+## Interface
+
+![BrandBrief AI Interface](assets/brandbrief-interface.png)
+
+## Output
+
+![BrandBrief AI Output](assets/brandbrief-output.png)
+
 ## Files
 
 ```text
@@ -97,3 +105,5 @@ Better content extraction
 Improved context management
 Better handling of complex websites
 Further experimentation with LLM workflows
+
+
